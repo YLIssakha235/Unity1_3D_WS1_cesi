@@ -1,0 +1,55 @@
+# ============================
+# Unity generated directories
+# ============================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# ============================
+# Visual Studio / IDE
+# ============================
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ============================
+# OS generated
+# ============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================
+# Unity generated files
+# ============================
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+
+# Crash reports
+crashlytics-build.properties
+
+# Temporary auto-generated Unity files
+Temp/
+# Ancien depot Git CESI - backup local uniquement
+.git_cesi_backup/
